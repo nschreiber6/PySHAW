@@ -1,0 +1,26 @@
+Shaw 3.0
+   0   1   0   0
+c1_veg.sit                                                                  
+c1.wea                                                      
+c1.moi                                                                   
+c1.tem                                                                   
+   0   0   0   24   0   0   0   0  1   24   0   0   0   24   0   0   0   0   0  0
+out/out_veg.txt                                                        
+out/temp_veg.txt                                                           
+out/moist_veg.txt                                                          
+out/liquid_veg.txt
+out/matric_veg.txt                                                             
+out/cantem_veg.txt
+out/canhum_veg.txt
+out/snowtem_veg.txt
+out/energy_veg.txt                                                            
+out/water_veg.txt                                                      
+out/wflow_veg.txt                                                    
+out/rootxt_veg.txt                                                     
+out/lateral_veg.txt
+out/frost_veg.txt                                                       
+out/salts_veg.txt                                                      
+out/solute_veg.txt                                                      
+out/profile_veg.txt                                                       
+out/extra1_veg.txt
+out/canwnd_veg.txt

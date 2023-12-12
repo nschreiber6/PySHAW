@@ -1,0 +1,26 @@
+Shaw 3.0
+   0   1   0   0
+c1_noveg.sit                                                                  
+c1.wea                                                      
+c1.moi                                                                   
+c1.tem                                                                   
+   0   0   0   24   0   0   0   0  1   24   0   0   0   24   0   0   0   0   0  0
+out/out_noveg.txt                                                        
+out/temp_noveg.txt                                                           
+out/moist_noveg.txt                                                          
+out/liquid_noveg.txt
+out/matric_noveg.txt                                                             
+out/cantem_noveg.txt
+out/canhum_noveg.txt
+out/snowtem_noveg.txt
+out/energy_noveg.txt                                                            
+out/water_noveg.txt                                                      
+out/wflow_noveg.txt                                                    
+out/rootxt_noveg.txt                                                     
+out/lateral_noveg.txt
+out/frost_noveg.txt                                                       
+out/salts_noveg.txt                                                      
+out/solute_noveg.txt                                                      
+out/profile_noveg.txt                                                       
+out/extra1_noveg.txt
+out/canwnd_noveg.txt
