@@ -1,0 +1,26 @@
+Shaw 3.0
+   0   1   0   0
+c1_veg_desert.sit                                                                  
+c1.wea                                                      
+c1.moi                                                                   
+c1.tem                                                                   
+   0   0   0   24   0   0   0   0  1   24   0   0   0   24   0   0   0   0   0  0
+c1_veg_desert_Out/out_veg.txt                                                        
+c1_veg_desert_Out/temp_veg.txt                                                           
+c1_veg_desert_Out/moist_veg.txt                                                          
+c1_veg_desert_Out/liquid_veg.txt
+c1_veg_desert_Out/matric_veg.txt                                                          
+c1_veg_desert_Out/cantem_veg.txt
+c1_veg_desert_Out/canhum_veg.txt
+c1_veg_desert_Out/snowtem_veg.txt
+c1_veg_desert_Out/energy_veg.txt                                                          
+c1_veg_desert_Out/water_veg.txt                                                      
+c1_veg_desert_Out/wflow_veg.txt                                                    
+c1_veg_desert_Out/rootxt_veg.txt                                                     
+c1_veg_desert_Out/lateral_veg.txt
+c1_veg_desert_Out/frost_veg.txt                                                       
+c1_veg_desert_Out/salts_veg.txt                                                      
+c1_veg_desert_Out/solute_veg.txt                                                      
+c1_veg_desert_Out/profile_veg.txt                                                       
+c1_veg_desert_Out/extra1_veg.txt
+c1_veg_desert_Out/canwnd_veg.txt

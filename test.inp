@@ -1,0 +1,26 @@
+Shaw 3.0
+   0   1   0   0
+c1_veg.sit                                                                  
+c1.wea                                                      
+c1.moi                                                                   
+c1.tem                                                                   
+   0   0   0   24   0   0   0   0  1   24   0   0   0   24   0   0   0   0   0  0
+test_Out/out_veg.txt                                                        
+test_Out/temp_veg.txt                                                           
+test_Out/moist_veg.txt                                                          
+test_Out/liquid_veg.txt
+test_Out/matric_veg.txt                                                          
+test_Out/cantem_veg.txt
+test_Out/canhum_veg.txt
+test_Out/snowtem_veg.txt
+test_Out/energy_veg.txt                                                          
+test_Out/water_veg.txt                                                      
+test_Out/wflow_veg.txt                                                    
+test_Out/rootxt_veg.txt                                                     
+test_Out/lateral_veg.txt
+test_Out/frost_veg.txt                                                       
+test_Out/salts_veg.txt                                                      
+test_Out/solute_veg.txt                                                      
+test_Out/profile_veg.txt                                                       
+test_Out/extra1_veg.txt
+test_Out/canwnd_veg.txt
