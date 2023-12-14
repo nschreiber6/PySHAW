@@ -40,6 +40,5 @@ def run_shaw(file_name):
 
 
 if __name__ == "__main__":
-    
     file_name_input = 'c1_veg.inp'
     run_shaw(file_name_input)
